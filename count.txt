@@ -2,4 +2,6 @@ Notebook 120
 Pencil 450
 Stapler 14
 Tape 60
-Labels 300
+Label 300
+Glue 25
+
